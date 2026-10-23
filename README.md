@@ -1,3 +1,5 @@
+> **Superseded (2026-10-23).** This plugin has been merged into [`ubuntu-admin`](https://github.com/danielrosehill/Ubuntu-Admin) and removed from the marketplace. Its README maps every command here to its replacement. This repo is kept for reference only.
+
 # Claude-Sysadmin-Homelab-Plugin
 
 Claude Code plugin for sysadmin and homelab workflows — remote server administration, container hosts, NAS, SBCs, and LAN resources. Ships diagnose / status / config / services / logs / alias / hardware-probe primitives plus a provisioning skill for a fresh sysadmin-homelab workspace.
