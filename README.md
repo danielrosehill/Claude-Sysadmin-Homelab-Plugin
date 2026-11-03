@@ -2,6 +2,8 @@
 
 # Claude-Sysadmin-Homelab-Plugin
 
+**Write-up:** [Claude Code plugins for non-coding work: homelab, data, media and admin](https://blog.danielrosehill.com/posts/claude-code-plugins-non-coding-workflows-xlkdop/)
+
 Claude Code plugin for sysadmin and homelab workflows — remote server administration, container hosts, NAS, SBCs, and LAN resources. Ships diagnose / status / config / services / logs / alias / hardware-probe primitives plus a provisioning skill for a fresh sysadmin-homelab workspace.
 
 Part of the [danielrosehill Claude Code marketplace](https://github.com/danielrosehill/Claude-Code-Plugins).
